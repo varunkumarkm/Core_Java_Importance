@@ -1,0 +1,17 @@
+https://restcountries.eu/rest/v2/all - This is the URL all the which is featching all the country 
+information along with the flag etc.
+
+http://test-routes.herokuapp.com/test/uppercase
+
+http://test-routes.herokuapp.com/test/hello
+
+https://www.w3schools.com/angular/customers.php
+
+https://jsonplaceholder.typicode.com/posts - This is link is working
+
+productApi:
+-> When use using a CRUD operation we use a dependencies are:  
+1) express: The command is yarn add express --save    it will download all the required elements 
+                                                      in the internet
+2) MySQL: The command is yarn add mysql --save   Ths will download mysql dependency
+3) body-parser: The command is yarn add body-parser --save
